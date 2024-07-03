@@ -2,8 +2,7 @@
 
 2-Este es el siguiente requerimiento que me pidieron muy hacer otro commit
 
-<<<<<<< HEAD
+
 4-Se cambio el requerimiento
-=======
->>>>>>> parent of a5ab30d (Se agrega un nuevo requerimeinto entre el 2 y el 3)
+
 3-este es el tercer requerimiento desarrolador
