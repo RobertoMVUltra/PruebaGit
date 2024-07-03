@@ -2,5 +2,5 @@
 
 2-Este es el siguiente requerimiento que me pidieron muy hacer otro commit
 
-4-Se esta desarrollando un nuevo requerimiento entre el no era entre el 2 y 3 si no entre el 5 y 6 
+4-Se cambio el requerimiento
 3-este es el tercer requerimiento desarrolador
