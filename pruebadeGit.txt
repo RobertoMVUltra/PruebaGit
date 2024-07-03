@@ -1,6 +1,8 @@
 1-Hola Estoy haciendo un commit en ambiente dev
 
 2-Este es el siguiente requerimiento que me pidieron muy hacer otro commit
-
+2.1
+2.2
 4-Se cambio el requerimiento
+4.1
 3-este es el tercer requerimiento desarrolador
